@@ -1,0 +1,17 @@
+type: Battery
+name: Bigger battery
+description: Stores power
+size: 2
+
+requirements: [
+copper/100
+  lead/100
+  graphite/100
+  silicon/100
+]
+category: power
+research: battery-large
+health:300
+consumes: {
+		powerBuffered: 75000.0
+	}

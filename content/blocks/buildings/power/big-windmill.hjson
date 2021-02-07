@@ -1,0 +1,22 @@
+type: SolarGenerator
+name: Bigger windmill
+description: Produces power from wind
+size: 2
+hasPower: true
+hasItems: true
+itemDuration: 30
+powerProduction: 3.5
+consumes: {
+  items: {
+    items: [
+    ]
+    optional: true
+  }
+}
+requirements: [
+  lead/50
+  silicon/50
+]
+category: power
+research: windmill
+canOverdrive:false

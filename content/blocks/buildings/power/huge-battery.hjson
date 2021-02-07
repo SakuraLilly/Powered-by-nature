@@ -1,0 +1,19 @@
+type: Battery
+name: Huge battery
+description: Stores a lot of power
+size: 3
+emptyLightColor: Color: ed1c24
+fullLightColor: Color: 8dc63f
+
+requirements: [
+copper/200
+  lead/200
+  graphite/200
+  silicon/200
+]
+category: power
+research: bigger-battery
+health:3000
+consumes: {
+		powerBuffered: 200000.0
+	}

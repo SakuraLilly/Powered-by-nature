@@ -1,0 +1,12 @@
+type: PowerNode
+name: Metaglass powernode
+description: small node with extra large range
+size: 1
+
+requirements: [
+  metaglass/50
+]
+laserRange:25
+maxNodes:20
+category: power
+research: copper-powernode

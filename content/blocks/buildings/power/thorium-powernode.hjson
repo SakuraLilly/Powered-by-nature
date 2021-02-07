@@ -1,0 +1,12 @@
+type: PowerNode
+name: Thorium powernode
+description: larger node with extra larger range
+size: 2
+
+requirements: [
+  thorium/40
+]
+laserRange:30
+maxNodes:35
+category: power
+research: meta-powernode

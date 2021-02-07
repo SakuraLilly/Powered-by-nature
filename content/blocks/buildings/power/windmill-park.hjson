@@ -1,0 +1,23 @@
+type: SolarGenerator
+name: Windmill Park
+description: More expensive power from wind
+size: 4
+hasPower: true
+hasItems: true
+itemDuration: 30
+powerProduction: 23
+consumes: {
+  items: {
+    items: [
+    ]
+    optional: true
+  }
+}
+requirements: [
+  thorium/200
+  graphite/200
+  metaglass/200
+]
+category: power
+research: water-dam
+canOverdrive:false

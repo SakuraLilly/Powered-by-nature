@@ -1,0 +1,12 @@
+type: PowerNode
+name: Copper powernode
+description: larger node with decent range
+size: 2
+
+requirements: [
+  copper/40
+]
+laserRange:15
+maxNodes:20
+category: power
+research: windmill

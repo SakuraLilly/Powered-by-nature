@@ -1,0 +1,29 @@
+type: NuclearReactor
+name: Water dam 
+description: Produces power from water and 'brick'
+size: 4
+hasItems: true
+hasLiquids:true
+hasPower:true
+powerProduction: 18
+heating:0.001
+liquidCapacity:1000
+consumes: {
+  items: {
+    items: [
+		graphite/3
+    ]
+  }
+  liquid: {
+			liquid: water
+			amount:0.2
+		}
+}
+requirements: [
+  graphite/200
+  silicon/200
+  metaglass/100
+]
+category: power
+research: wind-turbine
+canOverdrive:true

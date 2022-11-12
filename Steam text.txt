@@ -1,4 +1,4 @@
-V6 ready/ fixed! 
+V7 ready/ fixed! 
 Whenever short on power, this is the easiest fix. You found my Powered by Nature mod. 
 
 Put up a windmill. One windmill powers one silicon smelter. Just stick it next to it and you are up and running. You can have a whole windmill park to power everything. 
@@ -13,7 +13,8 @@ Added a Windmill park, more expensive, but gives 1380 power units per second
 
 3 powernodes are added for bigger range and 2 larger batteries to store all extra power. 
 
-With the new V6 added weather sometimes you will get less power. They are modeled after solar panels and need sun. The game has no 'wind'. 
+With the new V7 added weather sometimes you will get less power. 
+They are modeled after solar panels and need sun. The game has no 'wind'. 
 
 All feedback is nice, this is my first solo mod and I’m eager to learn.
 There is also a discord: [url=https://discord.gg/GaVZ735eRs]Discord link invite[/url]

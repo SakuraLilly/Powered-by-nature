@@ -1,11 +1,12 @@
-type: NuclearReactor
+type: ConsumeGenerator
 name: Water dam 
-description: Produces power from water and 'brick'
+description: Produces power from water and brick
 size: 4
 hasItems: true
 hasLiquids:true
 hasPower:true
 powerProduction: 18
+canOverdrive: false
 heating:0.001
 liquidCapacity:1000
 consumes: {
@@ -16,7 +17,7 @@ consumes: {
   }
   liquid: {
 			liquid: water
-			amount:0.2
+			amount:1
 		}
 }
 requirements: [
